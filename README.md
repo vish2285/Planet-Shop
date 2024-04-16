@@ -3,7 +3,7 @@
 
 * Planet-Shop is built with raw HTML and CSS files.
 
-* ![image](https://github.com/vish2285/Planet-Shop/assets/155484823/05e94e61-ef4b-49ac-aa99-4279835f7c9f)
+![image](https://github.com/vish2285/Planet-Shop/assets/155484823/05e94e61-ef4b-49ac-aa99-4279835f7c9f)
 
   
 # Overview Of Project
